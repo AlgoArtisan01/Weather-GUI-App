@@ -41,5 +41,5 @@
 
 <h2>📊 Output / Results</h2>
 <p align="center">
-  <img src="ss.png" alt="Weather App Screenshot" width="400"/>
+  <img src="ss.png" alt="Weather App Screenshot" width="300"/>
 </p>
