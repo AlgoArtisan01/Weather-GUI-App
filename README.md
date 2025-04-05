@@ -1,4 +1,5 @@
 <h1>Weather App GUI</h1>
+
 <h2>Introduction</h2>
 <p>
     The Weather App is a Java-based application that provides users with real-time weather information for a specified location. It fetches weather data from an external API and displays it in a graphical user interface (GUI). Users can enter a location, and the app retrieves and 
@@ -36,4 +37,9 @@
 </p>
 <p>
     <strong>Summary:</strong> This class encapsulates the core functionality of the Weather App. It includes methods to fetch weather data and location coordinates, convert weather codes into readable weather conditions, and manage API requests. This class acts as the bridge between the GUI and the external weather data source, ensuring that weather information is retrieved and displayed accurately.
+</p>
+
+<h2>📊 Output / Results</h2>
+<p align="center">
+  <img src="ss.png" alt="Weather App Screenshot" width="400"/>
 </p>
